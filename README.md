@@ -63,13 +63,10 @@ En la evaluación única final y  la convocatoria extraordinaria se podrán incl
 
 
 
-**Desde aqui hay que cambiarlo para este año**
-
-
-1. El primer paso es la creación de una cuenta en GitHub. 
+1. El primer paso es la creación de una cuenta en GitHub. Debido a la evolución de github, donde se producen cambios frecuentemente puede que las pantallas y los pasos no sean *exactamente* los mostrados.
     - [Detalle de pasos de creación de cuenta](creacioncuenta.md)
 
-2. Después en el aula virtual de la universidad aparece el enlace para la inscripción en el curso
+3. Después en el aula virtual de la universidad aparece el enlace para la inscripción en el curso
 
-
+**Desde aqui hay que cambiarlo para este año**
 [nota de bienvenida](https://github.com/Programacion-CODIGO-44101107-2022-23/.github/blob/main/bienvenida.md)
