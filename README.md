@@ -34,12 +34,13 @@ Competencias específicas del módulo de formación básica de la orden CIN/351/
 - Sesiones de laboratorio:
 	- Presenciales     ----          19 horas
 	- No presenciales  ----          28 horas
-- Sesiones de Trabajo Individual  no presenciales     59 horas
-- Examen Final                                         3 horas
+- Trabajo no presencial:
+    - Estudio autonomo ---- 41 horas
+    - Sesiones de Trabajo Individual  ---- 20 horas
+- Examen Final ----   1 horas
 
 
 ## Mecanismos de evaluación y cobertura de competencias
-
 **Prácticas de laboratorio - PR**: realización de las tareas correspondientes y entrega de la documentación y programas desarrollados en los plazos establecidos. La nota de estas prácticas será (N_PR) será 0 o 1 (Apto o No apto).
 
 **Trabajo individual-  TI** (trabajo autónomo, no presencial): realización de las actividades propuestas que  demuestren  si  el  alumno  comprende  los  conocimientos  adquiridos  y  tiene  la  capacidad  de aplicarlos en el diseño de programas.  La nota de este apartado (N_TI) será 0 o 1 (Apto o No apto). 
@@ -56,17 +57,12 @@ El resultado de la formula debe ser superior a 5 puntos para superar la asignatu
 
 El alumno de acuerdo con el **reglamento** de evaluación podrá optar a una **evaluación única final**. 
 
-En la evaluación única final y  la convocatoria extraordinaria se podrán incluir **diversas pruebas**. En concreto se procederá a la revisión y defensa de las PR y los TI, además del examen, que podrá incluir el desarrollo hasta ejecución de supuestos prácticos en el laboratorio.
+En la evaluación única final y la convocatoria extraordinaria se podrán incluir **diversas pruebas**. En concreto se procederá a la revisión y defensa de las PR y los TI, además del examen, que podrá incluir el desarrollo hasta ejecución
 
-
-### Planficación de las sesiones presenciales, entregas de actividades y practicas de laboratorio
-
-
+## Inscripción de asignatura
 
 1. El primer paso es la creación de una cuenta en GitHub. Debido a la evolución de github, donde se producen cambios frecuentemente puede que las pantallas y los pasos no sean *exactamente* los mostrados.
-    - [Detalle de pasos de creación de cuenta](creacioncuenta.md)
 
-3. Después en el aula virtual de la universidad aparece el enlace para la inscripción en el curso
+2. Después en el aula virtual de la universidad aparece el enlace para la inscripción en el curso
 
-**Desde aqui hay que cambiarlo para este año**
-[nota de bienvenida](https://github.com/Programacion-CODIGO-44101107-2022-23/.github/blob/main/bienvenida.md)
+
