@@ -6,9 +6,9 @@
   - [Planificación temporal de las actividades del estudiante](#planificación-temporal-de-las-actividades-del-estudiante)
   - [Mecanismos de evaluación y cobertura de competencias](#mecanismos-de-evaluación-y-cobertura-de-competencias)
   - [Inscripción de asignatura](#inscripción-de-asignatura)
-    - [1. El primer paso es la creación de una cuenta en GitHub. Debido a la evolución de github, donde se producen cambios frecuentemente puede que las pantallas y los pasos no sean *exactamente* los mostrados.](#1-el-primer-paso-es-la-creación-de-una-cuenta-en-github-debido-a-la-evolución-de-github-donde-se-producen-cambios-frecuentemente-puede-que-las-pantallas-y-los-pasos-no-sean-exactamente-los-mostrados)
-    - [2. Después en el aula virtual de la Universidad aparece el enlace para la inscripción en la **organización de la asignatura**](#2-después-en-el-aula-virtual-de-la-universidad-aparece-el-enlace-para-la-inscripción-en-la-organización-de-la-asignatura)
-    - [3. Crear  el repositorio para los trabajos del Alumno](#3-crear--el-repositorio-para-los-trabajos-del-alumno)
+    - [1. Creación de  cuenta de github con beneficios de estudiante](#1-creación-de--cuenta-de-github-con-beneficios-de-estudiante)
+    - [2. Inscripción en la organización](#2-inscripción-en-la-organización)
+    - [3. Crear el repositorio para los trabajos del Alumno](#3-crear-el-repositorio-para-los-trabajos-del-alumno)
 
 <!-- /TOC -->
 
@@ -75,7 +75,9 @@ En la evaluación única final y la convocatoria extraordinaria se podrán inclu
 
 ## Inscripción de asignatura
 
-### 1. El primer paso es la creación de una cuenta en GitHub. Debido a la evolución de github, donde se producen cambios frecuentemente puede que las pantallas y los pasos no sean *exactamente* los mostrados.
+### 1. Creación de  cuenta de github con beneficios de estudiante 
+
+El primer paso es la creación de una cuenta en GitHub. Debido a la evolución de github, donde se producen cambios frecuentemente puede que las pantallas y los pasos no sean *exactamente* los mostrados.
 
 Crear la cuenta de github utilizando el boton **Sign up** en la esquina superior derecha de la página ```www.github.com```. Se debe utilizar la cuenta institucional de la universidad de Almería (@inlumine.ual.es) para el registro de la cuenta, indicando que sois estudiantes de la universidad de Almería para poder ser usuarios habilitados.
 
@@ -88,7 +90,8 @@ Debemos asegurarnos de marcar las opciones de estudiante para poder acogernos a 
 ¡Ojo!: Puede haber pequeñas variaciones en las pantallas y pasos debido a las continuas evoluciones de la plataforma. 
 
 
-### 2. Después en el aula virtual de la Universidad aparece el enlace para la inscripción en la **organización de la asignatura**
+### 2. Inscripción en la organización
+Después en el aula virtual de la Universidad aparece el enlace para la inscripción en la **organización de la asignatura**
 
 - Entrar en github con el usuario y la contraseña creada.
 
@@ -102,7 +105,7 @@ Con esto se  da acceso a la organización mostrando los repositorios visibles pa
 
 Esta área de trabajo compartido es la que se utilizará para desarrollar el trabajo del alumno y evaluar las prácticas de la asignatura.
 
-### 3. Crear  el repositorio para los trabajos del Alumno
+### 3. Crear el repositorio para los trabajos del Alumno
 
 - Entrar en github con el usuario y la contraseña creada.
 
