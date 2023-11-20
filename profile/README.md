@@ -6,6 +6,9 @@
   - [Planificación temporal de las actividades del estudiante](#planificación-temporal-de-las-actividades-del-estudiante)
   - [Mecanismos de evaluación y cobertura de competencias](#mecanismos-de-evaluación-y-cobertura-de-competencias)
   - [Inscripción de asignatura](#inscripción-de-asignatura)
+    - [1. El primer paso es la creación de una cuenta en GitHub. Debido a la evolución de github, donde se producen cambios frecuentemente puede que las pantallas y los pasos no sean *exactamente* los mostrados.](#1-el-primer-paso-es-la-creación-de-una-cuenta-en-github-debido-a-la-evolución-de-github-donde-se-producen-cambios-frecuentemente-puede-que-las-pantallas-y-los-pasos-no-sean-exactamente-los-mostrados)
+    - [2. Después en el aula virtual de la Universidad aparece el enlace para la inscripción en la **organización de la asignatura**](#2-después-en-el-aula-virtual-de-la-universidad-aparece-el-enlace-para-la-inscripción-en-la-organización-de-la-asignatura)
+    - [3. Crear  el repositorio para los trabajos del Alumno](#3-crear--el-repositorio-para-los-trabajos-del-alumno)
 
 <!-- /TOC -->
 
@@ -72,7 +75,51 @@ En la evaluación única final y la convocatoria extraordinaria se podrán inclu
 
 ## Inscripción de asignatura
 
-1. El primer paso es la creación de una cuenta en GitHub. Debido a la evolución de github, donde se producen cambios frecuentemente puede que las pantallas y los pasos no sean *exactamente* los mostrados.
+### 1. El primer paso es la creación de una cuenta en GitHub. Debido a la evolución de github, donde se producen cambios frecuentemente puede que las pantallas y los pasos no sean *exactamente* los mostrados.
 
-2. Después en el aula virtual de la Universidad aparece el enlace para la inscripción en el curso
+Crear la cuenta de github utilizando el boton **Sign up** en la esquina superior derecha de la página ```www.github.com```. Se debe utilizar la cuenta institucional de la universidad de Almería (@inlumine.ual.es) para el registro de la cuenta, indicando que sois estudiantes de la universidad de Almería para poder ser usuarios habilitados.
+
+IMPORTANTE: Se debe utilizar el correo institucional de la universidad (imaguila@inlumine.ual.es) y como nombre de usuario el identificador en el aula virtual seguido de "-ual" (por ejemplo, ```imaguila-ual```, si este estuviese ocupado, añadir "inlumine", al nombre de usuario (```imaguila-ualinlumine```).
+
+Debemos asegurarnos de marcar las opciones de estudiante para poder acogernos a las licencias gratuitas que ofrece github, sino no prodremos trabajar.
+
+[Detalle de pasos de creación de cuenta](creacioncuenta.md)
+
+¡Ojo!: Puede haber pequeñas variaciones en las pantallas y pasos debido a las continuas evoluciones de la plataforma. 
+
+
+### 2. Después en el aula virtual de la Universidad aparece el enlace para la inscripción en la **organización de la asignatura**
+
+- Entrar en github con el usuario y la contraseña creada.
+
+- Pulsar pegar el  enlace **proporcionado en al aula virtual**  en otra ventana del navegador.
+  
+- Buscar el nombre del alumno en la lista mostrada, puede haber varias páginas y seleccionarlo.
+- Pulsar **join** al grupo de **estudiantes** de la asignatura.
+
+Con esto se  da acceso a la organización mostrando los repositorios visibles para los alumnos por ahora
+
+
+Esta área de trabajo compartido es la que se utilizará para desarrollar el trabajo del alumno y evaluar las prácticas de la asignatura.
+
+### 3. Crear  el repositorio para los trabajos del Alumno
+
+- Entrar en github con el usuario y la contraseña creada.
+
+- Pulsar pegar el  enlace **proporcionado en al aula virtual** en otra ventana del navegador, comprobar el aula virtual
+- Aceptar la tarea/assignment
+- Entrar en la organización
+
+    - [Organización](https://github.com/orgs/Programacion-44101107-2023-24/)
+
+
+- Comprobar que el repositorio ha sido creado
+- Dar acceso al equipo  *team* **profesorado** al repositorio
+
+  - Seleccionar la opción **Settings**
+  - Pulsar sobre **Collaborators and teams**
+  - Pulsar el botón **Add teams**. 
+  - Sobre la ventana seleccionar el equipo **profesorado**
+
+
 
