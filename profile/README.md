@@ -95,7 +95,7 @@ Después en el aula virtual de la Universidad aparece el enlace para la inscripc
 
 - Entrar en github con el usuario y la contraseña creada.
 
-- Pulsar pegar el  enlace **proporcionado en al aula virtual**  en otra ventana del navegador.
+- Pegar el  enlace **proporcionado en al aula virtual**  en otra ventana del navegador.
   
 - Buscar el nombre del alumno en la lista mostrada, puede haber varias páginas y seleccionarlo.
 - Pulsar **join** al grupo de **estudiantes** de la asignatura.
@@ -109,7 +109,7 @@ Esta área de trabajo compartido es la que se utilizará para desarrollar el tra
 
 - Entrar en github con el usuario y la contraseña creada.
 
-- Pulsar pegar el  enlace **proporcionado en al aula virtual** en otra ventana del navegador, comprobar el aula virtual
+- Pegar el  enlace **proporcionado en al aula virtual** en otra ventana del navegador. 
 - Aceptar la tarea/assignment
 - Entrar en la organización
 
