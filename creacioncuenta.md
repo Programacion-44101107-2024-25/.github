@@ -1,4 +1,18 @@
-<link rel="stylesheet" type="text/css" href="Inicio/estilo.css" media="screen" />
+<!-- TOC -->
+
+- [Creación de cuenta en github como estudiante de la UAL](#creación-de-cuenta-en-github-como-estudiante-de-la-ual)
+  - [Entrar en www.github.com e incluir el correo de la ual](#entrar-en-wwwgithubcom-e-incluir-el-correo-de-la-ual)
+  - [Dar una contraseña](#dar-una-contraseña)
+  - [Seleccionar un nombre de usuario](#seleccionar-un-nombre-de-usuario)
+  - [Pulsar continuar después de aceptar o no la publicidad](#pulsar-continuar-después-de-aceptar-o-no-la-publicidad)
+  - [Validar que no es boot](#validar-que-no-es-boot)
+  - [Validación a través del codigo del correo](#validación-a-través-del-codigo-del-correo)
+  - [Configurar la cuenta](#configurar-la-cuenta)
+  - [Apply for your GitHub student benefits](#apply-for-your-github-student-benefits)
+  - [Completar el perfil con el nombre completo y una foto si se desea](#completar-el-perfil-con-el-nombre-completo-y-una-foto-si-se-desea)
+
+<!-- /TOC -->
+
 
 # Creación de cuenta en github como estudiante de la UAL
 

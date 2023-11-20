@@ -1,3 +1,14 @@
+<!-- TOC -->
+
+- [Programación 44101107](#programación-44101107)
+  - [Competencias](#competencias)
+  - [Carga lectiva](#carga-lectiva)
+  - [Planificación temporal de las actividades del estudiante](#planificación-temporal-de-las-actividades-del-estudiante)
+  - [Mecanismos de evaluación y cobertura de competencias](#mecanismos-de-evaluación-y-cobertura-de-competencias)
+  - [Inscripción de asignatura](#inscripción-de-asignatura)
+
+<!-- /TOC -->
+
 # Programación 44101107
 
 En esta asignatura de la Universidad de Almería se desarrollarán los contenidos que facilitarán a los alumnos del primer curso de los grados de Ingenierías esta universidad la adquisición de las competencias en el ámbito de la programación y la inteligencia computacional.
@@ -63,6 +74,5 @@ En la evaluación única final y la convocatoria extraordinaria se podrán inclu
 
 1. El primer paso es la creación de una cuenta en GitHub. Debido a la evolución de github, donde se producen cambios frecuentemente puede que las pantallas y los pasos no sean *exactamente* los mostrados.
 
-2. Después en el aula virtual de la universidad aparece el enlace para la inscripción en el curso
-
+2. Después en el aula virtual de la Universidad aparece el enlace para la inscripción en el curso
 
