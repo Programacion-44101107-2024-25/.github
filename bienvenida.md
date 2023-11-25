@@ -1,6 +1,5 @@
 ## Mensaje de bienvenida a los estudiantes de programación
 
-
 Estimados estudiantes:
 
 Buenos días a todos. Me presento: soy la coordinadora de la asignatura **"Programación"** que empezaremos a partir del próximo jueves 7/2/2024 con las sesiones de Grupo Docente y a partir del lunes 2019/2/2024 los Grupos de Trabajo. 
