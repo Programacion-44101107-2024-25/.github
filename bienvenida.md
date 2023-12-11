@@ -2,7 +2,7 @@
 
 Estimados estudiantes:
 
-Buenos días a todos. Me presento: soy la coordinadora de la asignatura **"Programación"** que empezaremos a partir del próximo jueves 7/2/2024 con las sesiones de Grupo Docente y a partir del lunes 2019/2/2024 los Grupos de Trabajo. 
+Buenos días a todos. Me presento: soy la coordinadora de la asignatura **"Programación"** que empezaremos a partir del próximo jueves 7/2/2024 con las sesiones de Grupo Docente y a partir del lunes 19/2/2024 los Grupos de Trabajo. 
 
 Envío este correo para, en nombre de todo el equipo docente de la asignatura, darles la bienvenida a la misma, y tratar dos apartados importantes: el contenido del aula virtual y la iniciación del entorno de prácticas (creación de cuenta en github).
 
