@@ -122,7 +122,7 @@ Esta área de trabajo compartido es la que se utilizará para desarrollar el tra
   - Seleccionar la opción **Settings**
   - Pulsar sobre **Collaborators and teams**
   - Pulsar el botón **Add teams**. 
-  - Sobre la ventana seleccionar el equipo **profesorado**
+  - Sobre la ventana seleccionar el equipo **Profesorado**
 
 
 
