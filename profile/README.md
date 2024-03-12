@@ -60,7 +60,7 @@ Competencias específicas del módulo de formación básica de la orden CIN/351/
 ## Mecanismos de evaluación y cobertura de competencias
 **Prácticas de laboratorio - PR**: realización de las tareas correspondientes y entrega de la documentación y programas desarrollados en los plazos establecidos. La nota de estas prácticas será (N_PR) será 0 o 1 (Apto o No apto).
 
-**Tareas Evaluables-  TE** (trabajo autónomo, no presencial): realización de las actividades propuestas que  demuestren  si  el  alumno  comprende  los  conocimientos  adquiridos  y  tiene  la  capacidad  de aplicarlos en el diseño de programas.  La nota de este apartado (N_TI) será 0 o 1 (Apto o No apto). 
+**Tareas Evaluables-  TE** (trabajo autónomo, no presencial): realización de las actividades propuestas que  demuestren  si  el  alumno  comprende  los  conocimientos  adquiridos  y  tiene  la  capacidad  de aplicarlos en el diseño de programas.  La nota de este apartado (N_TE) será 0 o 1 (Apto o No apto). 
 
 **Examen final**: Para superar la asignatura, el alumno ha de obtener en el examen **calificación mínima de 4** sobre 10. 
 
