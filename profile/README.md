@@ -86,7 +86,7 @@ Crear la cuenta de github utilizando el boton **Sign up** en la esquina superior
 
 IMPORTANTE: Se debe utilizar el correo institucional de la universidad (imaguila@inlumine.ual.es) y como nombre de usuario el identificador en el aula virtual seguido de "-ual" (por ejemplo, ```imaguila-ual```, si este estuviese ocupado, añadir "inlumine", al nombre de usuario (```imaguila-ualinlumine```).
 
-Debemos asegurarnos de marcar las opciones de estudiante para poder acogernos a las licencias gratuitas que ofrece github, sino no prodremos trabajar.
+Debemos asegurarnos de marcar las opciones de estudiante para poder acogernos a las licencias gratuitas que ofrece github, aunque si esta opción da problemas se puede optar por una cuenta gratuita normal.
 
 [Detalle de pasos de creación de cuenta](creacioncuenta.md)
 
