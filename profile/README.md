@@ -60,21 +60,21 @@ Competencias específicas del módulo de formación básica de la orden CIN/351/
 ## Mecanismos de evaluación y cobertura de competencias
 **Prácticas de laboratorio - PR**: realización de las tareas correspondientes y entrega de la documentación y programas desarrollados en los plazos establecidos. La nota de estas prácticas será (N_PR) será 0 o 1 (Apto o No apto).
 
-**Trabajo individual-  TI** (trabajo autónomo, no presencial): realización de las actividades propuestas que  demuestren  si  el  alumno  comprende  los  conocimientos  adquiridos  y  tiene  la  capacidad  de aplicarlos en el diseño de programas.  La nota de este apartado (N_TI) será 0 o 1 (Apto o No apto). 
+**Tareas Evaluables-  TE** (trabajo autónomo, no presencial): realización de las actividades propuestas que  demuestren  si  el  alumno  comprende  los  conocimientos  adquiridos  y  tiene  la  capacidad  de aplicarlos en el diseño de programas.  La nota de este apartado (N_TI) será 0 o 1 (Apto o No apto). 
 
 **Examen final**: Para superar la asignatura, el alumno ha de obtener en el examen **calificación mínima de 4** sobre 10. 
 
-**N_TI** = 1 si y solo si entregado, defendido y superado el 75% de los trabajos individuales.
+**N_TE** = 1 si y solo si entregado, defendido y superado el 75% de las tareas evaluables.
 
 **N_PR** = 1 si y solo si se han entregado, defendido y superado el 75% de las prácticas de laboratorio, dentro del **periodo de prácticas**.
 
-**Calificación Asignatura** = N_PR * Examen Final *0.8+ N_TI + N_PR  
+**Calificación Asignatura** = N_PR * Examen Final *0.8+ N_TE + N_PR  
 
 El resultado de la formula debe ser superior a 5 puntos para superar la asignatura y obtener apto (1 punto)  en las prácticas de laboratorio. 
 
 El alumno de acuerdo con el **reglamento** de evaluación podrá optar a una **evaluación única final**. 
 
-En la evaluación única final y la convocatoria extraordinaria se podrán incluir **diversas pruebas**. En concreto se procederá a la revisión y defensa de las PR y los TI, además del examen, que podrá incluir el desarrollo hasta ejecución
+En la evaluación única final y la convocatoria extraordinaria se podrán incluir **diversas pruebas**. En concreto se procederá a la revisión y defensa de las PR y los TE, además del examen, que podrá incluir el desarrollo hasta ejecución
 
 ## Inscripción de asignatura
 
@@ -120,12 +120,7 @@ Esta área de trabajo compartido es la que se utilizará para desarrollar el tra
 
 
 - Comprobar que el repositorio ha sido creado
-- Dar acceso al equipo  *team* **profesorado** al repositorio
 
-  - Seleccionar la opción **Settings**
-  - Pulsar sobre **Collaborators and teams**
-  - Pulsar el botón **Add teams**. 
-  - Sobre la ventana seleccionar el equipo **Profesorado**
 
 
 
